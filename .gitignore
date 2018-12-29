@@ -23,3 +23,6 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+
+### 加密秘钥 ###
+/src/main/resources/application-jasypt.yml
